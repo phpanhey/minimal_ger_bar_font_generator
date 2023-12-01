@@ -7,7 +7,7 @@ Customizable Color Schemes: Choose from a variety of preset color palettes or cr
 ## Installation
 To use the Colored Bar Font Generator, follow these steps:
 
-*Clone the Repository*: git clone https://github.com/phpanhey/minimal_ger_bar_font_generator.git
+*Clone the Repository*: `git clone https://github.com/phpanhey/minimal_ger_bar_font_generator.git``
 
 *Install Dependencies*:  `pip install opentypesvg``
 
